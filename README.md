@@ -1,6 +1,7 @@
 # COOKIE: A Dataset for Conversational Recommendation over KnowledgeGraph in E-commerce
 
 ## Dataset
+[Download here](https://drive.google.com/drive/folders/1gOIsuy3RSqi3UbTnfYyzgVS7msQVRKU5?usp=sharing)
 
 ### Dialog-related Files
 | File                            | Description | Format |
@@ -45,9 +46,9 @@
 ### DMN[1]
 Follow the process [here](https://github.com/yangliuy/NeuralResponseRanking).
 ### OpendialKG[2]
-
+Comming Soon!
 ### MSN[3]
-
+Comming Soon!
 ## Reference
 [1] Liu Yang, Minghui Qiu, Chen Qu, Jiafeng Guo, Yongfeng Zhang, W. Bruce Croft, Jun Huang, Haiqing Chen. "Response Ranking with Deep Matching Networks and External Knowledge in Information-seeking Conversation Systems", In Proceedings of SIGIR. 2018.
 
