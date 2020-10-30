@@ -1,6 +1,8 @@
 # COOKIE
 A Dataset for Conversational Recommendation over KnowledgeGraph in E-commerce
 
+## Dataset
+
 ### Dialog-related Files
 | File                            | Description | Format |
 |---------------------------------|-------------|--------|
@@ -39,7 +41,7 @@ A Dataset for Conversational Recommendation over KnowledgeGraph in E-commerce
 
 *Note: user entity ids, item entity ids and other entity ids are consecutive. E.g., suppose there are 100 users, 200 items and 500 other entities. The user ids range in [0, 99], item ids range in [100, 299] and other entity ids range in [300, 799].* 
 
-### Baselines
+## Baselines
 
 
 
