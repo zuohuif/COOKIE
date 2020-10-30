@@ -1,5 +1,4 @@
-# COOKIE
-A Dataset for Conversational Recommendation over KnowledgeGraph in E-commerce
+# COOKIE: A Dataset for Conversational Recommendation over KnowledgeGraph in E-commerce
 
 ## Dataset
 
@@ -43,6 +42,17 @@ A Dataset for Conversational Recommendation over KnowledgeGraph in E-commerce
 
 ## Baselines
 
+### DMN[1]
+Follow the process [here](https://github.com/yangliuy/NeuralResponseRanking).
+### OpendialKG[2]
 
+### MSN[3]
+
+## Reference
+[1] Liu Yang, Minghui Qiu, Chen Qu, Jiafeng Guo, Yongfeng Zhang, W. Bruce Croft, Jun Huang, Haiqing Chen. "Response Ranking with Deep Matching Networks and External Knowledge in Information-seeking Conversation Systems", In Proceedings of SIGIR. 2018.
+
+[2] Seungwhan Moon, Pararth Shah, Anuj Kumar, Rajen Subba. "OpenDialKG: Explainable Conversational Reasoning with Attention-based Walks over Knowledge Graphs", In Proceeding of ACL. 2019.
+
+[3] Qibin Chen, Junyang Lin, Yichang Zhang, Ming Ding, Yukuo Cen, Hongxia Yang, Jie Tang. "Towards Knowledge-Based Recommender Dialog System", In Proceeding of EMNLP. 2019.
 
 
