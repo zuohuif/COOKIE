@@ -1,6 +1,5 @@
 # COOKIE: A Dataset for Conversational Recommendation over KnowledgeGraph in E-commerce
 
-## Dataset
 [Download here](https://drive.google.com/drive/folders/1gOIsuy3RSqi3UbTnfYyzgVS7msQVRKU5?usp=sharing)
 
 ### Dialog-related Files
