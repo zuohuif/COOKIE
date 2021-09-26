@@ -27,7 +27,6 @@
 *Notes:* 
 - `[user_id]` and `[item_id]` refer to the entity id of users and items in KG.
 
-
 ### KG-related Files
 | File                  | Description | Format |
 |-----------------------|-------------|--------|
